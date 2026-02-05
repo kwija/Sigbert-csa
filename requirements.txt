@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+lifelines==0.30.0
+scikit-survival==0.26.0
+jupyter
